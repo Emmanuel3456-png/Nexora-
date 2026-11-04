@@ -1,0 +1,9 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "env": {
+    "GROQ_API_KEY": "@groq-api-key",
+    "GEMINI_API_KEY": "@gemini-api-key"
+  }
+}
